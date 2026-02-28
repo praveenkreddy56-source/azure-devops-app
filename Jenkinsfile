@@ -11,7 +11,7 @@ pipeline {
 
         stage('Checkout') {
             steps {
-                git 'https://github.com/YOUR_USERNAME/azure-devops-app.git'
+                git 'git 'https://github.com/praveenkreddy56-source/azure-devops-app.git''
             }
         }
 
